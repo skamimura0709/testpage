@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 麗澤大学 オンライン講義
 
 You can use the [editor on GitHub](https://github.com/skamimura0709/testpage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
