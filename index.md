@@ -1,12 +1,14 @@
 # 麗澤大学データサイエンス教育推進室
 
-You can use the [editor on GitHub](https://github.com/skamimura0709/testpage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## データサイエンスプログラム
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### プログラム概要
 
-### Markdown
+### 科目のシラバス
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 認定書の発行
+
+### 自己評価
 
 ```markdown
 Syntax highlighted code block
