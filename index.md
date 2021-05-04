@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 麗澤大学データサイエンス教育推進室
 ---
 
