@@ -1,3 +1,9 @@
+---
+layout: default
+title: 麗澤大学データサイエンス教育推進室
+---
+
+
 # 麗澤大学データサイエンス教育推進室
 
 You can use the [editor on GitHub](https://github.com/skamimura0709/testpage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
