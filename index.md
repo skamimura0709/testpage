@@ -1,8 +1,7 @@
 ---
-
-title: 麗澤大学データサイエンス教育推進室
+layout: post
+title: Blogging Like a Hacker
 ---
-
 
 # 麗澤大学データサイエンス教育推進室
 
